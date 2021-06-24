@@ -1,4 +1,4 @@
-# Calculadora_IMC
+# BMI Calculator
 
 My first project using JS.
 
